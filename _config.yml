@@ -1,12 +1,12 @@
 # Site settings
-title: 
+title: Crushing on Code
 header-img: img/home-bg.png
 email: parvathikumar92@gmail.com
 copyright_name: paaaarv
 description: > # this means to ignore newlines until "baseurl:"
-  
+  just getting a bit more into it every day
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: paaaarv
+twitter_username: parv__kumar
 github_username:  paaaarv
 learn_profile: paaaarv
 email_username: parvathikumar92@gmail.com
